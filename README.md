@@ -1,4 +1,4 @@
-# Membuat Bootable Flashdisk Windows dengan Rufus
+# Instal Windows dengan Flashdisk Rufus
 1. Download Windows : https://www.microsoft.com/software-download/windows11
 2. Download Rufus : https://rufus.ie/id/
 3. Instal rufus dan jalankan
